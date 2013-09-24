@@ -1,0 +1,89 @@
+<openerp>
+<data>
+  <!-- Phrase types -->
+  <!-- Menu item -->
+  <record model="ir.actions.act_window" id="action_phrasetype_form">
+      <field name="name">Safety phrase-types</field>
+      <field name="res_model">product.phrase.type</field>
+      <field name="view_mode">tree,form</field>
+  </record>
+  <!-- List definition -->
+  <record model="ir.ui.view" id="product_phrase_type_tree_view">
+    <field name="name">product.phrase.type.tree</field>
+    <field name="model">product.phrase.type</field>
+    <field name="type">tree</field>
+    <field name="arch" type="xml">
+      <tree string="Phrase types">
+        <field name="regulated" />
+        <field name="name" />
+        <field name="description" />
+      </tree>
+    </field>
+  </record>
+  <!-- Form definition -->
+  <record model="ir.ui.view" id="product_phrase_type_form_view">
+    <field name="name">product.phrase.type.form</field>
+    <field name="model">product.phrase.type</field>
+    <field name="type">form</field>
+    <field name="arch" type="xml">
+        <form string="Phrase types">
+          <field name="name" select="1"/>
+          <field name="regulated" select="1"/>
+          <field name="description" select="1" colspan="4"/>
+        </form>
+    </field>
+  </record>
+
+  <!-- Phrases -->
+  <!-- Menu item -->
+  <record model="ir.actions.act_window" id="action_phrase_form">
+      <field name="name">Phrases</field>
+      <field name="res_model">product.phrase</field>
+      <field name="view_mode">tree,form</field>
+  </record>
+
+  <!-- List definition -->
+  <record model="ir.ui.view" id="product_phrase_tree_view">
+    <field name="name">product.phrase.tree</field>
+    <field name="model">product.phrase</field>
+    <field name="type">tree</field>
+    <field name="arch" type="xml">
+      <tree string="Phrases">
+        <field name="active"/>
+        <field name="type_id" />
+        <field name="name" />
+        <field name="phrase" />
+      </tree>
+    </field>
+  </record>
+  <!-- Form definition -->
+  <record model="ir.ui.view" id="product_phrase_form_view">
+    <field name="name">product.phrase.form</field>
+    <field name="model">product.phrase</field>
+    <field name="type">form</field>
+    <field name="arch" type="xml">
+        <form string="Phrases">
+          <group colspan="4" col="8">
+            <field name="type_id" select="1"/>
+            <field name="name" select="1"/>
+            <field name="active" select="1"/>
+            <field name="addition"/>
+          </group>
+          <field name="phrase" select="1" />
+          <group string="Notes" expand="1" colspan="4">
+            <field name="notes" nolabel="1"/>
+         </group>
+        </form>
+    </field>
+  </record>
+
+   <!-- Menu structure -->
+  <!-- Temporary location of the menu below stock, but this introduces dependency -->
+  <menuitem name="Phrases" id="menu_config_phrases"   parent="stock.menu_stock_configuration" />
+
+  <!-- Configuration menu items -->
+  <menuitem name="Types"   parent="menu_config_phrases" action="action_phrasetype_form" id="menu_config_phrases_types"/>
+  <menuitem name="Phrases" id="menu_phrase_form" parent="menu_config_phrases"  action="action_phrase_form"/>
+
+</data>
+</openerp>
