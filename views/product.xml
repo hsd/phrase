@@ -1,0 +1,26 @@
+<openerp>
+  <data>
+    <!-- Bring in phrases field in its own tab on the product form -->
+    <record model="ir.ui.view" id="product_phrases_form">
+      <field name="name">product.template.phrases.form</field>
+      <field name="model">product.template</field>
+      <field name="inherit_id" ref="product.product_template_form_view"/>
+      <field name="arch" type="xml">
+	<xpath expr="//page[@string='Inventory']" position="before">
+	  <page string="Phrases">
+            <field name="phrase_ids" nolabel="1">
+	      <tree editable="bottom">
+		<field name="sequence" widget="handle"/>
+		<field name="phrase_id"
+		       options="{'no_create' : True}" />
+		<!-- FIXME: when needs addition is true, this needs
+		     partial editability -->
+		<field name="phrase" readonly="1" />
+	      </tree>
+	    </field>
+	  </page>
+	</xpath>
+      </field>
+    </record>
+  </data>
+</openerp>

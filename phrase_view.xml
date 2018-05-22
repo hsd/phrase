@@ -27,9 +27,9 @@
     <field name="type">form</field>
     <field name="arch" type="xml">
         <form string="Phrase types">
-          <field name="name" select="1"/>
-          <field name="regulated" select="1"/>
-          <field name="description" select="1" colspan="4"/>
+          <field name="name" />
+          <field name="regulated" />
+          <field name="description"  colspan="4"/>
         </form>
     </field>
   </record>

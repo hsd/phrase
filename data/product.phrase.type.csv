@@ -1,6 +1,7 @@
-"id","name","description","regulated"
-"product_phrase_type_0","R","Risk phrases, originated in European Directive 67/548/EEC","True"
-"product_phrase_type_1","S","Safety phrases, originated in European Directive 67/548/EEC ","True"
-"product_phrase_type_3","H","Health statements, originated in Regulation (EC) No 1272/2008","True"
-"product_phrase_type_4","P","Precautionary statements, originated in Regulation (EC) No 1272/2008","True"
-"product_phrase_type_5","EUH","Additional CLP statements not part of GHS","True"
+id,name,description,regulated
+phrase.product_phrase_type_R,R,Risk phrases originated in European Directive 67/548/EEC,1
+phrase.product_phrase_type_S,S,Safety phrases originated in European Directive 67/548/EEC ,1
+phrase.product_phrase_type_H,H,Health statements originated in Regulation (EC) No 1272/2008,1
+phrase.product_phrase_type_P,P,Precautionary statements originated in Regulation (EC) No 1272/2008,1
+phrase.product_phrase_type_EUH,EUH,Additional CLP statements not part of GHS,1
+phrase.product_phrase_type_X,X,User defined / unregulated,0

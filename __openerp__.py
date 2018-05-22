@@ -4,20 +4,20 @@
 # Meta information about the substances module
 {
 	'name'       : 'Phrase management',
-	'version'    : '1.0',
+	'version'    : '2.0',
 	'author'     : 'HSD',
 	'category'   : 'Generic Modules/Others',
-	'website'    : 'http://hsdev.com',
-	'url'        : 'http://hsdev.com',
+	'website'    : 'https://hsdev.com',
+	'url'        : 'https://hsdev.com',
         'summary'    : 'Manage legislative product phrases',
 	'description': 'Module to manage phrases/statement for products (examples: R/S phrases, Health statements etc.)',
 	'depends'    : ['base','product','stock'],
-	'init_xml'   : [],
-	'update_xml' : [
-	  'phrase_view.xml',
-	  'security/ir.model.access.csv',
-          'data/product.phrase.type.csv'
-	],
-	'active'     : False,
-	'installable': True
+	'data' : [
+            'views/phrase.xml',
+            'views/phrase_type.xml',
+            'views/product.xml',
+            'security/ir.model.access.csv',
+            'data/product.phrase.type.csv',
+            'data/product.phrase.csv'
+	]
 }

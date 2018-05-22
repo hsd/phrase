@@ -1,0 +1,47 @@
+<openerp>
+  <data>
+    <!-- Phrase types -->
+    <!-- Menu item -->
+    <record model="ir.actions.act_window" id="action_phrasetype_form">
+      <field name="name">Safety phrase-types</field>
+      <field name="res_model">product.phrase.type</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- List definition -->
+    <record model="ir.ui.view" id="product_phrase_type_tree_view">
+      <field name="name">product.phrase.type.tree</field>
+      <field name="model">product.phrase.type</field>
+      <field name="type">tree</field>
+      <field name="arch" type="xml">
+	<tree string="Phrase types">
+          <field name="regulated" />
+          <field name="name" />
+          <field name="description" />
+	</tree>
+      </field>
+    </record>
+
+    <!-- Form definition -->
+    <record model="ir.ui.view" id="product_phrase_type_form_view">
+      <field name="name">product.phrase.type.form</field>
+      <field name="model">product.phrase.type</field>
+      <field name="type">form</field>
+      <field name="arch" type="xml">
+        <form string="Phrase types">
+	  <group>
+	    <field name="name" />
+            <field name="regulated" />
+	  </group>
+	  <group>
+            <field name="description"  colspan="4"/>
+	  </group>
+        </form>
+      </field>
+    </record>
+
+    <!-- Configuration menu items -->
+    <menuitem name="Types"   parent="menu_config_phrases" action="action_phrasetype_form" id="menu_config_phrases_types"/>
+
+  </data>
+</openerp>

@@ -1,0 +1,78 @@
+<openerp>
+  <data>
+    <!-- Phrases -->
+    <!-- Menu item -->
+    <record model="ir.actions.act_window" id="action_phrase_form">
+      <field name="name">Phrases</field>
+      <field name="res_model">product.phrase</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- List definition -->
+    <record model="ir.ui.view" id="product_phrase_tree_view">
+      <field name="name">product.phrase.tree</field>
+      <field name="model">product.phrase</field>
+      <field name="type">tree</field>
+      <field name="arch" type="xml">
+	<tree string="Phrases">
+	  <field name="sequence" widget="handle"/>
+          <field name="type_id" />
+          <field name="name" />
+          <field name="phrase" />
+	</tree>
+      </field>
+    </record>
+    <!-- Form definition -->
+    <record model="ir.ui.view" id="product_phrase_form_view">
+      <field name="name">product.phrase.form</field>
+      <field name="model">product.phrase</field>
+      <field name="type">form</field>
+      <field name="arch" type="xml">
+        <form string="Phrases">
+          <group col="10">
+	    <label for="type_id"
+		   options="{'no_create' : True}"/>
+	    <label for="name"/>
+	    <label for="phrase" colspan="8"/>
+	    <newline/>
+            <field name="type_id" nolabel="1"/>
+            <field name="name" nolabel="1"/>
+	    <field name="phrase" colspan="8" nolabel="1" translate="1"/>
+          </group>
+
+	  <group>
+	    <field name="active" />
+            <field name="addition"/>
+	  </group>
+
+          <group string="Notes" expand="1" colspan="4">
+            <field name="notes" nolabel="1"/>
+          </group>
+        </form>
+      </field>
+    </record>
+
+    <!-- Menu structure -->
+    <!-- Temporary location of the menu below stock, but this introduces dependency -->
+    <menuitem name="Phrases" id="menu_config_phrases"   parent="stock.menu_stock_configuration" />
+    <menuitem name="Phrases" id="menu_phrase_form"
+	      parent="menu_config_phrases"
+	      action="action_phrase_form"/>
+
+    <!-- Search views -->
+    <record id="product_phrase_search_view" model="ir.ui.view">
+      <field name="name">phrase.search.view</field>
+      <field name="model">product.phrase</field>
+      <field name="arch" type="xml">
+	<search string="Phrase Information">
+	  <field name="name"/>
+	  <field name="phrase"/>
+	  <group expand="0" string="Group By">
+	    <filter name="groupby_type" string="Phrase type" domain="[]" context="{'group_by':'type_id'}"
+		    help="Group phrase by type"/>
+	  </group>
+	</search>
+      </field>
+    </record>
+  </data>
+</openerp>
