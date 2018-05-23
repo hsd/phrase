@@ -47,6 +47,19 @@ class product_phrase(models.Model):
   product_ids = fields.One2many(comodel_name = 'product.phraseinfo',
                                 inverse_name = 'phrase_id', string='Products')
 
+  # Show the translated
+  # We select the translations from our module, only the phrase field, of model type.
+  # With this config, modify is possible, not adding and deleting
+  translate_ids = fields.One2many(comodel_name = 'ir.translation',
+                                  inverse_name = 'res_id',  string='Translation',
+                                  domain = [('module','=','phrase'),
+                                            ('name'  ,'=','product.phrase,phrase'),
+                                            ('type'  ,'=','model')],
+                                  context = {"default_name": 'product.phrase,phrase',
+                                             "default_type":'model',
+                                             "default_module": 'phrase'})
+
+
   _order = "sequence,type_id, name"
 
   # Note: sql constraint may not be updated automatically on change!
