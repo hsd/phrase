@@ -97,7 +97,6 @@ phrase.phrase_H410,1,H410,phrase.product_phrase_type_H,0,Zeer giftig voor in het
 phrase.phrase_H411,1,H411,phrase.product_phrase_type_H,0,Giftig voor in het water levende organismen, met langdurige gevolgen.,
 phrase.phrase_H412,1,H412,phrase.product_phrase_type_H,0,Schadelijk voor in het water levende organismen, met langdurige gevolgen.,
 phrase.phrase_H413,1,H413,phrase.product_phrase_type_H,0,Kan langdurige schadelijke gevolgen voor in het water levende organismen hebben.,
-phrase.phrase_K1,1,K1,phrase.product_phrase_type_X,0,Kankerverwekkend,Registreren
 phrase.phrase_P101,1,P101,phrase.product_phrase_type_P,0,Bij het inwinnen van medisch advies, de verpakking of het etiket ter beschikking houden.,
 phrase.phrase_P102,1,P102,phrase.product_phrase_type_P,0,Buiten het bereik van kinderen houden.,
 phrase.phrase_P103,1,P103,phrase.product_phrase_type_P,0,Alvorens te gebruiken, het etiket lezen.,
@@ -237,7 +236,6 @@ phrase.phrase_P413,1,P413,phrase.product_phrase_type_P,0,Bulkmateriaal, indien m
 phrase.phrase_P420,1,P420,phrase.product_phrase_type_P,0,Gescheiden van ander materiaal bewaren.,
 phrase.phrase_P422,1,P422,phrase.product_phrase_type_P,0,Onder … bewaren.,
 phrase.phrase_P501,1,P501,phrase.product_phrase_type_P,0,Inhoud/verpakking afvoeren naar …,
-phrase.phrase_R,1,R,phrase.product_phrase_type_X,1,REPROTOXISCH,
 phrase.phrase_R1,0,R1,phrase.product_phrase_type_R,0,In droge toestand ontplofbaar,
 phrase.phrase_R10,0,R10,phrase.product_phrase_type_R,0,Ontvlambaar.,
 phrase.phrase_R11,0,R11,phrase.product_phrase_type_R,0,Licht ontvlambaar.,
@@ -437,4 +435,3 @@ phrase.phrase_S7/8,0,S7/8,phrase.product_phrase_type_S,0,Drooghouden en in een g
 phrase.phrase_S7/9,0,S7/9,phrase.product_phrase_type_S,0,Gesloten verpakking op een goed geventileerde plaats bewaren.,
 phrase.phrase_S8,0,S8,phrase.product_phrase_type_S,0,Verpakking droog houden.,
 phrase.phrase_S9,0,S9,phrase.product_phrase_type_S,0,Op een goed geventileerde plaats bewaren.,
-phrase.phrase_geen,1,geen,phrase.product_phrase_type_X,0,geen gevarenzinnen van toepassing,
