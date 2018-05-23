@@ -44,6 +44,9 @@ class product_phrase(models.Model):
   active   = fields.Boolean(default = True)
   sequence = fields.Integer(default = 1)
 
+  product_ids = fields.One2many(comodel_name = 'product.phraseinfo',
+                                inverse_name = 'phrase_id', string='Products')
+
   _order = "sequence,type_id, name"
 
   # Note: sql constraint may not be updated automatically on change!
@@ -58,14 +61,23 @@ class product_phraseinfo(models.Model):
   _name = 'product.phraseinfo'
   _description = 'Phrase information for products'
 
-  product_tmpl_id = fields.Many2one('product.template', string = 'Product', readonly=True, ondelete='cascade')
-  type       = fields.Char(related = 'phrase_id.type_id.name')
+  # Link to the product and the phrase
+  product_tmpl_id = fields.Many2one('product.template', string = 'Product', required=True, ondelete='cascade')
   phrase_id  = fields.Many2one('product.phrase', string = 'Code', required=True)
-  phrase     = fields.Char(related = 'phrase_id.phrase')
+
+  # Field that holds the, per assignment, addition when applicable
   addition   = fields.Char(string = 'Optional addition (when applicable)', size=128)
+
   # Allow reordering per product.
   sequence   = fields.Integer(default = 1)
 
+  # For form design, we include these related fields
+  type       = fields.Char(related = 'phrase_id.type_id.name')
+  phrase     = fields.Char(related = 'phrase_id.phrase')
+  # Get the product code in here for sorting and identification
+  product_code = fields.Char(related = 'product_tmpl_id.default_code', store=True)
+
+  # By default, sort by priority (only relavant from products point of view)
   _order = 'sequence'
 
 # Let the products have phrases, using models should probably define a domain

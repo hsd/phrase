@@ -29,25 +29,34 @@
       <field name="type">form</field>
       <field name="arch" type="xml">
         <form string="Phrases">
-          <group col="10">
-	    <label for="type_id"
-		   options="{'no_create' : True}"/>
+          <sheet>
 	    <label for="name"/>
-	    <label for="phrase" colspan="8"/>
-	    <newline/>
-            <field name="type_id" nolabel="1"/>
-            <field name="name" nolabel="1"/>
-	    <field name="phrase" colspan="8" nolabel="1" translate="1"/>
-          </group>
+	    <h1><field name="name"/></h1>
+	    <h3><field name="phrase" /></h3>
 
-	  <group>
-	    <field name="active" />
-            <field name="addition"/>
-	  </group>
+	    <group col="10">
+              <field name="type_id" options="{'no_create' : True}" />
+	      <field name="active" />
+              <field name="addition"/>
+	    </group>
+	    <notebook>
+	      <page string="Products">
+		<field name="product_ids" nolabel="1">
+		  <tree editable="bottom"
+			default_order="product_tmpl_id">
 
-          <group string="Notes" expand="1" colspan="4">
-            <field name="notes" nolabel="1"/>
-          </group>
+		    <field name="product_tmpl_id"
+			   options="{'no_create' : True}"/>
+		    <field name="product_code" readonly="1" />
+		  </tree>
+		</field>
+	      </page>
+	      <page string="Notes">
+		<field name="notes" nolabel="1"/>
+	      </page>
+	    </notebook>
+
+	  </sheet>
         </form>
       </field>
     </record>
