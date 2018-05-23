@@ -32,6 +32,7 @@
 	  <group>
 	    <field name="name" />
             <field name="regulated" />
+	     <field name="active"/>
 	  </group>
 	  <group>
             <field name="description"  colspan="4"/>
