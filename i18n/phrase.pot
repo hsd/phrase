@@ -1,0 +1,2355 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* phrase
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-24 14:49+0000\n"
+"PO-Revision-Date: 2018-05-24 14:49+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S23
+msgid "... niet inademen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S24
+msgid "Aanraking met de huid vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S24/25
+msgid "Aanraking met de ogen en de huid vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S25
+msgid "Aanraking met de ogen vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P405
+#: model:product.phrase,phrase:phrase.phrase_S1
+msgid "Achter slot bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S1/2
+msgid "Achter slot en buiten bereik van kinderen bewaren."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,active:0
+#: field:product.phrase.type,active:0
+msgid "Active"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P284
+msgid "Adembescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S29
+#: model:product.phrase,phrase:phrase.phrase_S29/56
+msgid "Afval niet in de gootsteen werpen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P381
+msgid "Alle ontstekingsbronnen wegnemen als dat veilig gedaan kan worden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P271
+msgid "Alleen buiten of in een goed geventileerde ruimte gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S58
+msgid "Als gevaarlijk afval afvoeren (vervallen; L 110 A; 4/5/93)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P103
+msgid "Alvorens te gebruiken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P201
+msgid "Alvorens te gebruiken de speciale aanwijzingen raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P303/361/353
+msgid "BIJ CONTACT MET DE HUID (of het haar): verontreinigde kleding onmiddellijk uittrekken - huid met water afspoelen/afdouchen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P303
+msgid "BIJ CONTACT MET DE HUID (of het haar):..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P302
+msgid "BIJ CONTACT MET DE HUID: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P302/334
+msgid "BIJ CONTACT MET DE HUID: in koud water onderdompelen/nat verband aanbrengen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P302/352
+msgid "BIJ CONTACT MET DE HUID: met veel water en zeep wassen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P302/350
+msgid "BIJ CONTACT MET DE HUID: voorzichtig wassen met veel water en zeep."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P305
+msgid "BIJ CONTACT MET DE OGEN: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P305/351/338
+msgid "BIJ CONTACT MET DE OGEN: voorzichtig afspoelen met water gedurende een aantal minuten; contactlenzen verwijderen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P280
+msgid "Beschermende handschoenen/beschermende kleding/oogbescherming/gelaatsbescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH208
+msgid "Bevat ... Kan een allergische reactie veroorzaken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH205
+msgid "Bevat epoxyverbindingen. Kan een allergische reactie veroorzaken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H280
+msgid "Bevat gas onder druk; kan ontploffen bij verwarming."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH204
+msgid "Bevat isocyanaten. Kan een allergische reactie veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH201/201A
+msgid "Bevat lood. Mag niet worden gebruikt voor voorwerpen waarin kinderen kunnen bijten of waaraan kinderen kunnen zuigen. Let op! Bevat lood."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H281
+msgid "Bevat sterk gekoeld gas; kan cryogene brandwonden of letsel veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH203
+msgid "Bevat zeswaardig chroom. Kan een allergische reactie veroorzaken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R8
+msgid "Bevordert de ontbranding van brandbare stoffen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P336
+msgid "Bevroren lichaamsdelen met lauw water ontdooien. Niet wrijven op de betrokken plaatsen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S47
+msgid "Bewaren bij een temperatuur beneden ... °C."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3/14
+msgid "Bewaren op een koele plaats verwijderd van ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3/9/14
+msgid "Bewaren op een koele; goed geventileerde plaats verwijderd van ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P337
+msgid "Bij aanhoudende oogirritatie: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P337/313
+msgid "Bij aanhoudende oogirritatie: een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S26
+msgid "Bij aanraking met de ogen onmiddellijk met overvloedig water afspoelen en deskundig medisch advies inwinnen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P341
+msgid "Bij ademhalingsmoeilijkheden het slachtoffer in de frisse lucht brengen en laten rusten in een houding die het ademen vergemakkelijkt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P342
+msgid "Bij ademhalingssymptomen: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P342/311
+msgid "Bij ademhalingssymptomen: een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S45
+msgid "Bij een ongeval of indien men zich onwel voelt; onmiddellijk een arts raadplegen (indien mogelijk hem dit etiket tonen)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P101
+msgid "Bij het inwinnen van medisch advies"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P333
+msgid "Bij huidirritatie of uitslag: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P333/313
+msgid "Bij huidirritatie of uitslag: een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P332
+msgid "Bij huidirritatie: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P332/313
+msgid "Bij huidirritatie: een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S62
+msgid "Bij inslikken niet het braken opwekken; direct een arts raadplegen en de verpakking of het etiket tonen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P411
+msgid "Bij maximaal … oC/…oF bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P411/235
+msgid "Bij maximaal … oC/…oF bewaren. Koel bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P285
+msgid "Bij ontoereikende ventilatie een geschikte adembescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S38
+msgid "Bij ontoereikende ventilatie een geschikte ademhalingsbescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P312
+msgid "Bij onwel voelen een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P314
+msgid "Bij onwel voelen een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P263
+msgid "Bij zwangerschap of borstvoeding aanraking vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH071
+msgid "Bijtend voor de luchtwegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S53
+msgid "Blootstelling vermijden - voor gebruik speciale aanwijzingen raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P378
+msgid "Blussen met …"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P377
+msgid "Brand door lekkend gas: niet blussen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H241
+msgid "Brand- of ontploffingsgevaar bij verwarming."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H242
+msgid "Brandgevaar bij verwarming."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S2
+msgid "Buiten bereik van kinderen bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P102
+msgid "Buiten het bereik van kinderen houden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P413
+msgid "Bulkmateriaal"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,name:0
+#: field:product.phraseinfo,phrase_id:0
+msgid "Code"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P222
+msgid "Contact met de lucht vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P262
+msgid "Contact met de ogen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P223
+msgid "Contact met water vermijden in verband met een heftige reactie en een mogelijke wolkbrand."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P338
+msgid "Contactlenzen verwijderen"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,create_uid:0
+#: field:product.phrase.type,create_uid:0
+#: field:product.phraseinfo,create_uid:0
+msgid "Created by"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,create_date:0
+#: field:product.phrase.type,create_date:0
+#: field:product.phraseinfo,create_date:0
+msgid "Created on"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R67
+msgid "Dampen kunnen slaperigheid en duizeligheid veroorzaken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P330
+msgid "De mond spoelen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P281
+msgid "De nodige persoonlijke beschermingsuitrusting gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S12
+msgid "De verpakking niet hermetisch sluiten."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase.type,description:0
+msgid "Description"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S60
+msgid "Deze stof en de verpakking als gevaarlijk afval afvoeren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S56
+msgid "Deze stof en de verpakking naar inzamelpunt voor gevaarlijk of bijzonder afval brengen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S35
+msgid "Deze stof en de verpakking op veilige wijze afvoeren."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,display_name:0
+#: field:product.phrase.type,display_name:0
+#: field:product.phraseinfo,display_name:0
+msgid "Display Name"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H310 + H330
+msgid "Dodelijk bij contact met de huid en bij inademing"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H310
+msgid "Dodelijk bij contact met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H330
+msgid "Dodelijk bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H300/310/330
+msgid "Dodelijk bij inslikken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H300/330
+msgid "Dodelijk bij inslikken en bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H300
+msgid "Dodelijk bij inslikken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S36/39
+msgid "Draag geschikte beschermende kleding en een beschermingsmiddel voor de ogen/het gezicht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S36
+msgid "Draag geschikte beschermende kleding."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S36/37/39
+msgid "Draag geschikte beschermende kleding; handschoenen en een beschermingsmiddel voor de ogen/voor het gezicht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S36/37
+msgid "Draag geschikte handschoenen en beschermende kleding."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S37/39
+msgid "Draag geschikte handschoenen en een beschermingsmiddel voor de ogen/het gezicht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S37
+msgid "Draag geschikte handschoenen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S7/8
+msgid "Drooghouden en in een goed gesloten verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P311
+msgid "Een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P313
+msgid "Een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S39
+msgid "Een bescherming voor de ogen/voor het gezicht dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R3
+msgid "Ernstig ontploffingsgevaar door schok; wrijving; vuur of andere ontstekingsoorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P380
+msgid "Evacueren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P241
+msgid "Explosieveilige elektrische/ventilatie-/verlichtings-/…apparatuur gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P331
+msgid "GEEN braken opwekken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P390
+msgid "Gelekte/gemorste stof opnemen om materiële schade te vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P391
+msgid "Gelekte/gemorste stof opruimen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P420
+msgid "Gescheiden van ander materiaal bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S7/47
+msgid "Gesloten verpakking bewaren bij een temperatuur beneden ... °C."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S7/9
+msgid "Gesloten verpakking op een goed geventileerde plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3/7
+msgid "Gesloten verpakking op een koele plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H204
+msgid "Gevaar voor brand of scherfwerking."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R33
+msgid "Gevaar voor cumulatieve effecten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R41
+msgid "Gevaar voor ernstig oogletsel."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39
+msgid "Gevaar voor ernstige onherstelbare effecten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48
+msgid "Gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H205
+msgid "Gevaar voor massa-explosie bij brand."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH059
+#: model:product.phrase,phrase:phrase.phrase_R59
+msgid "Gevaarlijk voor de ozonlaag."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H311/H331
+msgid "Giftig bij contact met de huid en bij inademing"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H311
+msgid "Giftig bij contact met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H331
+msgid "Giftig bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H301/311/331
+msgid "Giftig bij inslikken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H301 + H311
+msgid "Giftig bij inslikken en bij contact met de huid"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H301
+msgid "Giftig bij inslikken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH070
+msgid "Giftig bij oogcontac."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H411
+msgid "Giftig voor in het water levende organismen"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_search_view
+msgid "Group By"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_search_view
+msgid "Group phrase by type"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH066
+msgid "Herhaalde blootstelling kan een droge of een gebarsten huid veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R66
+msgid "Herhaalde blootstelling kan een droge of gebarsten huid veroorzaken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P376
+msgid "Het lek dichten als dat veilig gedaan kan worden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P340
+msgid "Het slachtoffer in de frisse lucht brengen en laten rusten in een houding die het ademen vergemakkelijkt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P251
+msgid "Houder onder druk: ook na gebruik niet doorboren of verbranden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P353
+msgid "Huid met water afspoelen/afdouchen."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,id:0
+#: field:product.phrase.type,id:0
+#: field:product.phraseinfo,id:0
+msgid "ID"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H260
+msgid "In contact met water komen ontvlambare gassen vrij die spontaan kunnen ontbranden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H261
+msgid "In contact met water komen ontvlambare gassen vrij."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P406
+msgid "In corrosiebestendige/… houder met corrosiebestendige binnenbekleding bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R1
+msgid "In droge toestand ontplofbaar"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH001
+msgid "In droge toestand ontplofbaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P404
+msgid "In gesloten verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S43
+msgid "In geval van brand ... gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S41
+msgid "In geval van brand en/of explosie inademen van rook vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P370
+msgid "In geval van brand: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P370/376
+#: model:product.phrase,phrase:phrase.phrase_P370/378
+msgid "In geval van brand: blussen met …"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P370/380
+msgid "In geval van brand: evacueren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P370/380/375
+msgid "In geval van brand: evacueren. Op afstand blussen omwille van ontploffingsgevaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P371
+msgid "In geval van grote brand en grote hoeveelheden: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P371/380/375
+msgid "In geval van grote brand en grote hoeveelheden: evacueren. Op afstand blussen omwille van ontploffingsgevaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S46
+msgid "In geval van inslikken onmiddellijk een arts raadplegen en verpakking of etiket tonen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P233
+#: model:product.phrase,phrase:phrase.phrase_S7
+msgid "In goed gesloten verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H252
+msgid "In grote hoeveelheden vatbaar voor zelfverhitting; kan vlam vatten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P334
+msgid "In koud water onderdompelen/nat verband aanbrengen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P261
+msgid "Inademing van stof/rook/gas/nevel/damp/spuitnevel vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S44
+msgid "Indien men zich onwel voelt een arts raadplegen (indien mogelijk hem dit etiket tonen) (vervallen; L 110 A; 4/5/93)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S48
+msgid "Inhoud vochtig houden met ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P501
+msgid "Inhoud/verpakking afvoeren naar …"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H200
+msgid "Instabiele ontplofbare stof."
+msgstr ""
+
+#. module: phrase
+#: field:product.phraseinfo,product_code:0
+msgid "Internal Reference"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R37/38
+msgid "Irriterend voor de ademhalingswegen en de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R37
+msgid "Irriterend voor de ademhalingswegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R38
+msgid "Irriterend voor de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R36/37
+msgid "Irriterend voor de ogen en de ademhalingswegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R36/38
+msgid "Irriterend voor de ogen en de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R36
+msgid "Irriterend voor de ogen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R36/37/38
+msgid "Irriterend voor de ogen; de ademhalingswegen en de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H335/336
+msgid "Kan ademhalingsirritatie"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH018
+msgid "Kan bij gebruik een ontvlambaar/ontplofbaar damp-luchtmengsel vormen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R18
+msgid "Kan bij gebruik een ontvlambaar/ontplofbaar damp/luchtmengsel vormen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R30
+msgid "Kan bij gebruik licht ontvlambaar worden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH209/209A
+msgid "Kan bij gebruik licht ontvlambaar worden. Kan bij gebruik ontvlambaar worden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H334
+msgid "Kan bij inademing allergie- of astmasymptomen of ademhalingsmoeilijkheden veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H290
+msgid "Kan bijtend zijn voor metalen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H272
+msgid "Kan brand bevorderen; oxiderend."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H271
+msgid "Kan brand of ontploffingen veroorzaken; sterk oxiderend."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H270
+msgid "Kan brand veroorzaken of bevorderen; oxiderend."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R7
+msgid "Kan brand veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H360
+msgid "Kan de vruchtbaarheid of het ongeboren kind schaden..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R60
+msgid "Kan de vruchtbaarheid schaden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H304
+msgid "Kan dodelijk zijn als de stof bij inslikken in de luchtwegen terechtkomt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H317
+msgid "Kan een allergische huidreactie veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R46
+msgid "Kan erfelijke genetische schade veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R47
+msgid "Kan geboorteafwijkingen veroorzaken (vervallen; L 110 A; 4/5/93)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H340
+msgid "Kan genetische schade veroorzaken..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R61
+msgid "Kan het ongeboren kind schaden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R53
+msgid "Kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R58
+msgid "Kan in het milieu op lange termijn schadelijke effecten veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H335
+msgid "Kan irritatie van de luchtwegen veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R49
+msgid "Kan kanker veroorzaken bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R45
+msgid "Kan kanker veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H350
+msgid "Kan kanker veroorzaken..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H413
+msgid "Kan langdurige schadelijke gevolgen voor in het water levende organismen hebben."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H361
+msgid "Kan mogelijks de vruchtbaarheid of het ongeboren kind schaden "
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH019
+#: model:product.phrase,phrase:phrase.phrase_R19
+msgid "Kan ontplofbare peroxiden vormen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R43
+msgid "Kan overgevoeligheid veroorzaken bij contact met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R42/43
+msgid "Kan overgevoeligheid veroorzaken bij inademing of contact met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R42
+msgid "Kan overgevoeligheid veroorzaken bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H371
+msgid "Kan schade aan organen veroorzaken ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H373
+msgid "Kan schade aan organen veroorzaken..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H362
+msgid "Kan schadelijk zijn via borstvoeding."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R64
+msgid "Kan schadelijk zijn via de borstvoeding."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H336
+msgid "Kan slaperigheid of duizeligheid veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P235
+msgid "Koel bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P235/410
+msgid "Koel bewaren. Tegen zonlicht beschermen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P282
+msgid "Koude-isolerende handschoenen/gelaatsbescherming/oogbescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,__last_update:0
+#: field:product.phrase.type,__last_update:0
+#: field:product.phraseinfo,__last_update:0
+msgid "Last Modified on"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,write_uid:0
+#: field:product.phrase.type,write_uid:0
+#: field:product.phraseinfo,write_uid:0
+msgid "Last Updated by"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,write_date:0
+#: field:product.phrase.type,write_date:0
+#: field:product.phraseinfo,write_date:0
+msgid "Last Updated on"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH207
+msgid "Let op! Bevat cadmium. Bij het gebruik ontwikkelen zich gevaarlijke dampen. Zie de aanwijzingen van de fabrikant. Neem de veiligheidsvoorschriften in acht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH206
+msgid "Let op! Niet in combinatie met andere producten gebruiken. Er kunnen gevaarlijke gassen (chloor) vrijkomen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R11
+msgid "Licht ontvlambaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H225
+msgid "Licht ontvlambare vloeistof en damp."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P335
+msgid "Losse deeltjes van de huid afvegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P335/334
+msgid "Losse deeltjes van de huid afvegen. In koud water onderdompelen/nat verband aanbrengen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S33
+msgid "Maatregelen treffen tegen ontladingen van statische elektriciteit."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P250
+msgid "Malen/schokken/…/wrijving vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S55
+msgid "Met de best beschikbare technieken behandelen alvorens in riool of het aquatisch milieu te lozen (vervallen; L 110 A; 4/5/93)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P374
+msgid "Met normale voorzorgen vanaf een redelijke afstand blussen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P352
+msgid "Met veel water en zeep wassen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R63
+msgid "Mogelijk gevaar voor beschadiging van het ongeboren kind."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R62
+msgid "Mogelijk gevaar voor verminderde vruchtbaarheid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P308
+msgid "NA (mogelijke) blootstelling: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P308/310
+msgid "NA (mogelijke) blootstelling: Onmiddelijk een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P308/313
+msgid "NA (mogelijke) blootstelling: een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P304
+msgid "NA INADEMING: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P304/341
+msgid "NA INADEMING: bij ademhalingsmoeilijkheden het slachtoffer in de frisse lucht brengen en laten rusten in een houding die het ademen vergemakkelijkt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P304/340
+msgid "NA INADEMING: het slachtoffer in de frisse lucht brengen en laten rusten in een houding die het ademen vergemakkelijkt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P301
+msgid "NA INSLIKKEN: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P301/312
+msgid "NA INSLIKKEN: bij onwel voelen een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P301/330/331
+msgid "NA INSLIKKEN: de mond spoelen — GEEN braken opwekken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P301/310
+msgid "NA INSLIKKEN: onmiddellijk een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P306
+msgid "NA MORSEN OP KLEDING: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P306/360
+msgid "NA MORSEN OP KLEDING: verontreinigde kleding en huid onmiddellijk met veel water afspoelen en pas daarna kleding uittrekken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P309
+msgid "NA blootstelling of bij onwel voelen: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P309/311
+msgid "NA blootstelling of bij onwel voelen: een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P309/310
+msgid "NA blootstelling of bij onwel voelen: onmiddellijk een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P307
+msgid "NA blootstelling: ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P307/310
+msgid "NA blootstelling: Onmiddelijk een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P307/311
+msgid "NA blootstelling: een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P373
+msgid "NIET blussen wanneer het vuur de ontplofbare stoffen bereikt."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S28
+msgid "Na aanraking met de huid onmiddellijk wassen met veel ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P264
+msgid "Na het werken met dit product … grondig wassen."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase.type,name:0
+#: field:product.phraseinfo,type:0
+msgid "Name"
+msgstr ""
+
+#. module: phrase
+#: sql_constraint:product.phrase.type:0
+msgid "Name for the phrasetype must be unique"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,addition:0
+msgid "Needs addition"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S57
+msgid "Neem passende maatregelen om verspreiding in het milieu te voorkomen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P412
+msgid "Niet blootstellen aan temperaturen boven 50 oC/122oF"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P270
+msgid "Niet eten"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S20
+msgid "Niet eten of drinken tijdens gebruik."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S20/21
+msgid "Niet eten; drinken of roken tijdens gebruik."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P211
+msgid "Niet in een open vuur of op andere ontstekingsbronnen spuiten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S21
+msgid "Niet roken tijdens gebruik."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S50
+msgid "Niet vermengen met ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S52
+msgid "Niet voor gebruik op grote oppervlakken in woon- en verblijfruimten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S30
+msgid "Nooit water op deze stof gieten."
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_form_view
+#: field:product.phrase,notes:0
+msgid "Notes"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S5
+msgid "Onder ... houden (geschikte vloeistof)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S6
+msgid "Onder ... houden (inert gas)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P231
+msgid "Onder inert gas werken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P231/232
+msgid "Onder inert gas werken. Tegen vocht beschermen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P422
+msgid "Onder … bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R68
+msgid "Onherstelbare effecten effecten zijn niet uitgesloten"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40
+msgid "Onherstelbare effecten zijn niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P310
+msgid "Onmiddellijk een ANTIGIFCENTRUM of een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P315
+msgid "Onmiddellijk een arts raadplegen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH006
+#: model:product.phrase,phrase:phrase.phrase_R6
+msgid "Ontplofbaar met en zonder lucht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H202
+msgid "Ontplofbare stof"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H203
+msgid "Ontplofbare stof; gevaar voor brand"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H201
+msgid "Ontplofbare stof; gevaar voor massa-explosie."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R9
+msgid "Ontploffingsgevaar bij menging met brandbare stoffen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R16
+msgid "Ontploffingsgevaar bij menging met oxyderende stoffen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH044
+#: model:product.phrase,phrase:phrase.phrase_R44
+msgid "Ontploffingsgevaar bij verwarming in afgesloten toestand."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H240
+msgid "Ontploffingsgevaar bij verwarming."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R2
+msgid "Ontploffingsgevaar door schok; wrijving; vuur of andere ontstekingsoorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R5
+msgid "Ontploffingsgevaar door verwarming."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P372
+msgid "Ontploffingsgevaar in geval van brand."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H221
+msgid "Ontvlambaar gas. "
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R10
+msgid "Ontvlambaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H223
+msgid "Ontvlambare aerosol."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H228
+msgid "Ontvlambare vaste stof."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H226
+msgid "Ontvlambare vloeistof en damp."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P375
+msgid "Op afstand blussen omwille van ontploffingsgevaar"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P402
+msgid "Op een droge plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P402/404
+msgid "Op een droge plaats bewaren. In gesloten verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P403
+#: model:product.phrase,phrase:phrase.phrase_S9
+msgid "Op een goed geventileerde plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P403/233
+msgid "Op een goed geventileerde plaats bewaren. In goed gesloten verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P403/235
+msgid "Op een goed geventileerde plaats bewaren. Koel bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3
+msgid "Op een koele plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P240
+msgid "Opslag- en opvangreservoir aarden."
+msgstr ""
+
+#. module: phrase
+#: field:product.phraseinfo,addition:0
+msgid "Optional addition (when applicable)"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_form_view
+msgid "Original text"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P202
+msgid "Pas gebruiken nadat u alle veiligheidsvoorschriften gelezen en begrepen heeft"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,phrase:0
+#: field:product.phraseinfo,phrase:0
+msgid "Phrase"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_search_view
+msgid "Phrase Information"
+msgstr ""
+
+#. module: phrase
+#: sql_constraint:product.phrase:0
+msgid "Phrase codes must be unique within their type"
+msgstr ""
+
+#. module: phrase
+#: model:ir.model,name:phrase.model_product_phraseinfo
+msgid "Phrase information for products"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_search_view
+msgid "Phrase type"
+msgstr ""
+
+#. module: phrase
+#: model:ir.model,name:phrase.model_product_phrase_type
+#: view:product.phrase.type:phrase.product_phrase_type_form_view
+#: view:product.phrase.type:phrase.product_phrase_type_tree_view
+msgid "Phrase types"
+msgstr ""
+
+#. module: phrase
+#: model:ir.actions.act_window,name:phrase.action_phrase_form
+#: model:ir.ui.menu,name:phrase.menu_config_phrases
+#: model:ir.ui.menu,name:phrase.menu_phrase_form
+#: view:product.phrase:phrase.product_phrase_form_view
+#: view:product.phrase:phrase.product_phrase_tree_view
+#: view:product.template:phrase.product_phrases_form
+#: field:product.template,phrase_ids:0
+msgid "Phrases"
+msgstr ""
+
+#. module: phrase
+#: field:product.phraseinfo,product_tmpl_id:0
+msgid "Product"
+msgstr ""
+
+#. module: phrase
+#: model:ir.model,name:phrase.model_product_template
+msgid "Product Template"
+msgstr ""
+
+#. module: phrase
+#: model:ir.model,name:phrase.model_product_phrase
+msgid "Product phrases"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_form_view
+#: field:product.phrase,product_ids:0
+msgid "Products"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S59
+msgid "Raadpleeg fabrikant/leverancier voor informatie over terugwinning/recycling."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R14/15
+msgid "Reageert heftig met water en vormt daarbij licht ontvlambaar gas."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH014
+#: model:product.phrase,phrase:phrase.phrase_R14
+msgid "Reageert heftig met water."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P244
+msgid "Reduceerventielen vrij van olie en vet houden"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase.type,regulated:0
+msgid "Regulated"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P407
+msgid "Ruimte laten tussen stapels/pallets."
+msgstr ""
+
+#. module: phrase
+#: model:ir.actions.act_window,name:phrase.action_phrasetype_form
+msgid "Safety phrase-types"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R21/22
+msgid "Schadelijk bij aanraking met de huid en bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R21
+msgid "Schadelijk bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H312/H332
+msgid "Schadelijk bij contact met de huid en bij inademing"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H312
+msgid "Schadelijk bij contact met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R20/21
+msgid "Schadelijk bij inademing en bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R20/22
+msgid "Schadelijk bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H332
+#: model:product.phrase,phrase:phrase.phrase_R20
+msgid "Schadelijk bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R20/21/22
+msgid "Schadelijk bij inademing; opname door de mond en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H302/312/332
+msgid "Schadelijk bij inslikken"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H302/312
+msgid "Schadelijk bij inslikken en bij contact met de huid"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H302/332
+msgid "Schadelijk bij inslikken of inademen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H302
+msgid "Schadelijk bij inslikken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R22
+msgid "Schadelijk bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H412
+msgid "Schadelijk voor in het water levende organismen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R52
+msgid "Schadelijk voor in het water levende organismen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R52/53
+msgid "Schadelijk voor in het water levende organismen: kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R65
+msgid "Schadelijk. Kan longschade veroorzaken na verslikken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/21/22
+msgid "Schadelijk: bij aanraking met de huid en opname door de mond zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/21
+msgid "Schadelijk: bij aanraking met de huid zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/20/21
+msgid "Schadelijk: bij inademing en aanraking met de huid zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/20/22
+msgid "Schadelijk: bij inademing en opname door de mond zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/20
+msgid "Schadelijk: bij inademing zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/20/21/22
+msgid "Schadelijk: bij inademing; aanraking met de huid en opname door de mond zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R40/22
+msgid "Schadelijk: bij opname door de mond zijn onherstelbare effecten niet uitgesloten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/21/22
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/21
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/20/21
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/20/22
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/20
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/20/21/22
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing; aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/22
+msgid "Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S34
+msgid "Schok en wrijving vermijden (vervallen; L 110 A; 4/5/93)"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,sequence:0
+#: field:product.phraseinfo,sequence:0
+msgid "Sequence"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P320
+msgid "Specifieke behandeling dringend vereist.... "
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P321
+msgid "Specifieke behandeling vereist ... "
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P322
+msgid "Specifieke maatregelen..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R17
+msgid "Spontaan ontvlambaar in lucht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S22
+msgid "Stof niet inademen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P260
+msgid "Stof/rook/gas/nevel/damp/spuitnevel niet inademen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P232
+msgid "Tegen vocht beschermen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P410
+msgid "Tegen zonlicht beschermen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P410/412
+msgid "Tegen zonlicht beschermen. Niet blootstellen aan temperaturen boven 50 oC/122oF."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P410/403
+msgid "Tegen zonlicht beschermen. Op een goed geventileerde plaats bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S42
+msgid "Tijdens de ... een geschikte ademhalingsbescherming dragen."
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,translate_ids:0
+msgid "Translation"
+msgstr ""
+
+#. module: phrase
+#: view:product.phrase:phrase.product_phrase_form_view
+msgid "Translations"
+msgstr ""
+
+#. module: phrase
+#: field:product.phrase,type_id:0
+msgid "Type"
+msgstr ""
+
+#. module: phrase
+#: model:ir.ui.menu,name:phrase.menu_config_phrases_types
+msgid "Types"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S47/49
+msgid "Uitsluitend in de oorspronkelijke verpakking bewaren bij een temperatuur beneden ... °C."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3/9/14/49
+msgid "Uitsluitend in de oorspronkelijke verpakking bewaren op een koele goed geventileerde plaats verwijderd van ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S3/9/49
+msgid "Uitsluitend in de oorspronkelijke verpakking bewaren op een koele goed geventileerde plaats."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P234
+#: model:product.phrase,phrase:phrase.phrase_S49
+msgid "Uitsluitend in de oorspronkelijke verpakking bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S51
+msgid "Uitsluitend op goed geventileerde plaatsen gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P242
+msgid "Uitsluitend vonkvrij gereedschap gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P220
+msgid "Van kleding/…/brandbare stoffen verwijderd houden/bewaren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H250
+msgid "Vat spontaan vlam bij blootstelling aan lucht."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H251
+msgid "Vatbaar voor zelfverhitting: kan vlam vatten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH210
+msgid "Veiligheidsinformatieblad op verzoek verkrijgbaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H341
+msgid "Verdacht van het veroorzaken van genetische schade ..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H351
+msgid "Verdacht van het veroorzaken van kanker..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R24/25
+msgid "Vergiftig bij aanraking met de huid en bij opname door de mond"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R24
+msgid "Vergiftig bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R23/24
+msgid "Vergiftig bij inademing en bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R23/25
+msgid "Vergiftig bij inademing en bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R23
+msgid "Vergiftig bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R23/24/25
+msgid "Vergiftig bij inademing; opname door de mond en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R25
+msgid "Vergiftig bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R57
+msgid "Vergiftig voor bijen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R56
+msgid "Vergiftig voor bodemorganismen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R55
+msgid "Vergiftig voor dieren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R51
+msgid "Vergiftig voor in het water levende organismen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R51/53
+msgid "Vergiftig voor in het water levende organismen: kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R54
+msgid "Vergiftig voor planten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/24/25
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/24
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/23/24
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/23/25
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/23
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/23/24/25
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing; aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/25
+msgid "Vergiftig: gevaar voor ernstige onherstelbare effecten bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/24/25
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/24
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/23/24
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/23/25
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/23
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/23/24/25
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing; aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R48/25
+msgid "Vergiftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P221
+msgid "Vermenging met brandbare stoffen… absoluut vermijden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P360
+msgid "Verontreinigde kleding en huid onmiddellijk met veel water afspoelen en pas daarna kleding uittrekken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P361
+#: model:product.phrase,phrase:phrase.phrase_S27
+msgid "Verontreinigde kleding onmiddellijk uittrekken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P362
+msgid "Verontreinigde kleding uittrekken en wassen alvorens deze opnieuw te gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P363
+msgid "Verontreinigde kleding wassen alvorens deze opnieuw te gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P272
+msgid "Verontreinigde werkkleding mag de werkruimte niet verlaten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R34
+msgid "Veroorzaakt brandwonden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H318
+msgid "Veroorzaakt ernstig oogletsel."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H314
+msgid "Veroorzaakt ernstige brandwonden en oogletsel."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R35
+msgid "Veroorzaakt ernstige brandwonden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H319
+msgid "Veroorzaakt ernstige oogirritatie."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H315
+msgid "Veroorzaakt huidirritatie."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H370
+#: model:product.phrase,phrase:phrase.phrase_H372
+msgid "Veroorzaakt schade aan organen..."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S8
+msgid "Verpakking droog houden."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S18
+msgid "Verpakking voorzichtig behandelen en openen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S14
+msgid "Verwijderd houden van ...."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S17
+msgid "Verwijderd houden van brandbare stoffen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S13
+msgid "Verwijderd houden van eet- en drinkwaren en van dierenvoeder."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S16
+msgid "Verwijderd houden van ontstekingsbronnen - Niet roken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S15
+msgid "Verwijderd houden van warmte."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P210
+msgid "Verwijderd houden van warmte/vonken/open vuur/hete oppervlakken. — Niet roken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S4
+msgid "Verwijderd van woonruimten opbergen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P230
+msgid "Vochtig houden met…"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH401
+msgid "Volg de gebruiksaanwijzing om gevaar voor de menselijke gezondheid en het milieu te voorkomen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S40
+msgid "Voor de reiniging van de vloer en alle voorwerpen verontreinigd met dit materiaal ... gebruiken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P273
+msgid "Voorkom lozing in het milieu."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S61
+msgid "Voorkom lozing in het milieu. Vraag om speciale instrukties/veiligheidskaart."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P351
+msgid "Voorzichtig afspoelen met water gedurende een aantal minuten."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P350
+msgid "Voorzichtig wassen met veel water en zeep."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P243
+msgid "Voorzorgsmaatregelen treffen tegen ontladingen van statische elektriciteit."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH029
+msgid "Vormt giftig gas in contact met water."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH031
+msgid "Vormt giftig gas in contact met zuren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R15
+msgid "Vormt licht ontvlambaar gas in contact met water."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R4
+msgid "Vormt met metalen zeer gemakkelijk ontplofbare verbindingen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R15/29
+msgid "Vormt vergiftig en zeer licht ontvlambaar gas in contact met water."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R29
+msgid "Vormt vergiftig gas in contact met water."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R31
+msgid "Vormt vergiftige gassen in contact met zuren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_EUH032
+msgid "Vormt zeer giftig gas in contact met zuren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R32
+msgid "Vormt zeer vergiftige gassen in contact met zuren."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_S54
+msgid "Vraag de toestemming van milieubeschermingsinstanties alvorens af te voeren naar rioolwaterzuiveringsinstallaties (vervallen; L 110 A; 4/5/93)."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P283
+msgid "Vuur/vlambestendige/brandwerende kleding dragen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H361f
+msgid "Wordt ervan verdacht de vruchtbaarheid te schaden"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H361d
+msgid "Wordt ervan verdacht het ongeboren kind te schaden"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H410
+msgid "Zeer giftig voor in het water levende organismen"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H400
+msgid "Zeer giftig voor in het water levende organismen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H220
+msgid "Zeer licht ontvlambaar gas."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R13
+msgid "Zeer licht ontvlambaar vloeibaar gas (vervallen; L 110 A; 4/5/93)"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R12
+msgid "Zeer licht ontvlambaar."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H222
+msgid "Zeer licht ontvlambare aerosol."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_H224
+msgid "Zeer licht ontvlambare vloeistof en damp"
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R27/28
+msgid "Zeer vergiftig bij aanraking met de huid en bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R27
+msgid "Zeer vergiftig bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R26/27
+msgid "Zeer vergiftig bij inademing en bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R26/28
+msgid "Zeer vergiftig bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R26
+msgid "Zeer vergiftig bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R26/27/28
+msgid "Zeer vergiftig bij inademing; opname door de mond; aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R28
+msgid "Zeer vergiftig bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R50
+msgid "Zeer vergiftig voor in het water levende organismen."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R50/53
+msgid "Zeer vergiftig voor in het water levende organismen: kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/27/28
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/27
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/26/27
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/26/28
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/26
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/26/27/28
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing; aanraking met de huid en opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_R39/28
+msgid "Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij opname door de mond."
+msgstr ""
+
+#. module: phrase
+#: model:product.phrase,phrase:phrase.phrase_P401
+msgid "… bewaren."
+msgstr ""
+
