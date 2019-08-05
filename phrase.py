@@ -74,6 +74,9 @@ class product_phraseinfo(models.Model):
   _name = 'product.phraseinfo'
   _description = 'Phrase information for products'
 
+  # Define name, so searches work intuitively
+  name = fields.Char(related = 'phrase_id.name')
+
   # Link to the product and the phrase
   product_tmpl_id = fields.Many2one('product.template', string = 'Product', required=True, ondelete='cascade')
   phrase_id  = fields.Many2one('product.phrase', string = 'Code', required=True)
